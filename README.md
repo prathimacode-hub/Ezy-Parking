@@ -25,7 +25,7 @@ Join us in our vision to do good and transition communities to waste-free and re
 
 <h2>🔑Tech Stacks</h2>
 
-Skills : Machine Learning, Deep Learning, Computer Vision, Django, IoT
+Skills : Machine Learning, Deep Learning, Computer Vision, Django, MySQL, IoT
 
 Front End : Python, HTML, CSS, JS
 
