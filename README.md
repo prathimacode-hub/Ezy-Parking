@@ -42,7 +42,7 @@ This is a most prominent trouble especially in metropolitan and tier-1 cities wh
 
 Skills : Machine Learning, Deep Learning, Computer Vision, Django, MySQL, IoT
 
-Front End : Python, HTML, CSS, JS
+Programming Languages : Python, HTML, CSS, JS
 
 
 Contributors are expected to join this Discord Channel here for the project discussion : 
