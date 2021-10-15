@@ -29,16 +29,13 @@ This is a most prominent trouble especially in metropolitan and tier-1 cities wh
 - While exiting, it automatically checks the complete history of the car using vehicle registration number (owner authority, licence checking, pending challans).
 - With vehicle registration number and color of vehicle, user can easily track their vehicle location in a hump through their own device.
 - Using sensor, it updates parking lot metrics which in turn is sent to database for users to view the details.
-- If vehicle is parked in No parking zone, an user can detect car owner details and email that the car has been taken by RTO.
+- If vehicle is parked in No parking zone, an user can detect vehicle owner details and email that the vehicle has been taken by RTO.
 - Users can also share the best spots via posts for the community.
  
  
  <h2>🙌Join Here</h2>
 
-
-Lets step in to make a small change by giving individuals a better choice of products to create social impact and save the environment for future generations to come.
-
-Join us in our vision to do good and transition communities to waste-free and responsible living!!. 🚀 
+🚀 Join us to come up with a real-time parking solution to tackle and make this workflow more efficient towards effortless parking management system.  
 
 
 <h2>🔑Tech Stacks</h2>
