@@ -127,6 +127,9 @@ Special thanks goes to the Mentee for a choice to make an impact
   <tr>
 <td align="center"><a href="https://github.com/neelshah2409"><img src="https://avatars.githubusercontent.com/u/71593494?v=4" width="100px;" alt=""/><br /><sub><b>Neel Shah</b></sub></a></td>   
   </tr>
+   <tr>
+<td align="center"><a href="https://github.com/malikakarsh"><img src="https://avatars.githubusercontent.com/u/62998362?v=4" width="100px;" alt=""/><br /><sub><b>Akarsh Malik</b></sub></a></td>   
+  </tr>
 </table>
 
 
