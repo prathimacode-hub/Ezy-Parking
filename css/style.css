@@ -448,3 +448,44 @@ a:hover {
 
 
 /******************/
+
+
+/******************/
+
+
+/*     Header     */
+
+
+/******************/
+
+.header {
+    padding-top: 8rem;
+    padding-bottom: 9rem;
+    background-color: #fff2dc;
+    text-align: center;
+}
+
+.header .h1-large {
+    margin-bottom: 1.25rem;
+}
+
+.header .replace-me {
+    color: #f25c05;
+}
+
+.header .replace-me span {
+    text-decoration: underline;
+}
+
+.header .p-large {
+    margin-bottom: 2.75rem;
+}
+
+.header .btn-solid-lg {
+    display: block;
+    margin-bottom: 1.75rem;
+}
+
+.header .text-container {
+    margin-bottom: 5rem;
+}
