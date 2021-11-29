@@ -116,7 +116,7 @@ Special thanks goes to the Mentee for a choice to make an impact
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/Rutikab12"><img src="https://avatars.githubusercontent.com/u/71027989?v=4" width="80px;" alt=""/><br /><sub><b>Rutik Bhoyar</b></sub></a></td>   
+<td align="center"><a href="https://github.com/Rutikab12"><img src="https://avatars.githubusercontent.com/u/71027989?v=4" width="100px;" alt=""/><br /><sub><b>Rutik Bhoyar</b></sub></a></td>   
   </tr>
 </table>
 
@@ -125,7 +125,7 @@ Special thanks goes to the Mentee for a choice to make an impact
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/neelshah2409"><img src="https://avatars.githubusercontent.com/u/71593494?v=4" width="80px;" alt=""/><br /><sub><b>Neel Shah</b></sub></a></td>   
+<td align="center"><a href="https://github.com/neelshah2409"><img src="https://avatars.githubusercontent.com/u/71593494?v=4" width="100px;" alt=""/><br /><sub><b>Neel Shah</b></sub></a></td>   
   </tr>
 </table>
 
