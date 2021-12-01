@@ -112,19 +112,25 @@ This project was a part of these open source programs.
 
 <h2>✨Hall Of Fame</h2>   
 
-Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
+Special thanks goes to the Mentee for a choice to make an impact
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/Rutikab12"><img src="https://avatars.githubusercontent.com/u/71027989?v=4" width="100px;" alt=""/><br /><sub><b>Rutik Bhoyar</b></sub></a></td>   
+  </tr>
+</table>
 
-<a href="https://github.com/prathimacode-hub/Ezy-Parking/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=prathimacode-hub/Ezy-Parking" />
-</a>
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<h2>✔DWOC Project Mentors</h2>
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/neelshah2409"><img src="https://avatars.githubusercontent.com/u/71593494?v=4" width="100px;" alt=""/><br /><sub><b>Neel Shah</b></sub></a></td>   
+  </tr>
+   <tr>
+<td align="center"><a href="https://github.com/malikakarsh"><img src="https://avatars.githubusercontent.com/u/62998362?v=4" width="100px;" alt=""/><br /><sub><b>Akarsh Malik</b></sub></a></td>   
+  </tr>
+</table>
 
 
 <h2>📜 Code Of Conduct</h2>
