@@ -70,6 +70,7 @@ if (dropdownCheck !== null) {
     });
 }
 
+/*Replace me js addded*/
 
 /* Rotating Text - Word Cycle */
 var checkReplace = document.querySelector('.replace-me');

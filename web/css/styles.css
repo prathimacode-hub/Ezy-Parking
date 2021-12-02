@@ -110,6 +110,7 @@ h6 {
 
 .testimonial-text {
     font-style: italic;
+    /*bold is not working properly*/
 }
 
 .testimonial-author {
