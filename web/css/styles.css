@@ -735,6 +735,112 @@ a:hover {
 }
 
 
+/**********************/
+
+
+/*     Invitation     */
+
+
+/**********************/
+
+.basic-3 {
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    background-color: #272556;
+    text-align: center;
+}
+
+.basic-3 h4 {
+    margin-bottom: 2.375rem;
+    color: #ffffff;
+}
+
+.basic-3 .btn-outline-lg {
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+.basic-3 .btn-outline-lg:hover {
+    background-color: #ffffff;
+    color: #272556;
+}
+
+
+/*********************/
+
+
+/*     Questions     */
+
+
+/*********************/
+
+.accordion-1 {
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+.accordion-1 .h2-heading {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.accordion-1 .accordion-item {
+    padding-bottom: 1rem;
+    border: none;
+    border-bottom: 1px solid #cdcedd;
+}
+
+.accordion-1 .accordion-header {
+    width: 100%;
+}
+
+.accordion-1 .accordion-button {
+    width: auto;
+    padding-top: 2rem;
+    padding-left: 0;
+    background: none;
+    box-shadow: none;
+    font-weight: 600;
+    font-size: 1.15rem;
+    line-height: 1.625rem;
+}
+
+.accordion-1 .accordion-button:not(.collapsed) {
+    color: #212529;
+}
+
+.accordion-1 .accordion-button::after,
+.accordion-1 .accordion-button:not(.collapsed)::after {
+    display: none;
+}
+
+.accordion-1 .accordion-button:not(.collapsed)::before {
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 436.686 265.011'%3e%3cdefs%3e%3cstyle%3e.cls-1%7bfill:%23272556;%7d%3c/style%3e%3c/defs%3e%3ctitle%3echevron-down-solid-1%3c/title%3e%3cpath class='cls-1' d='M201.373,257.982L7.03,63.638a24,24,0,0,1,0-33.941L29.7,7.03a24,24,0,0,1,33.9-.04L218.344,161.011,373.089,6.99a24,24,0,0,1,33.9.04L429.657,29.7a24,24,0,0,1,0,33.941L235.315,257.982a24,24,0,0,1-33.942,0h0Z'/%3e%3c/svg%3e");
+    transform: rotate(-180deg);
+}
+
+.accordion-1 .accordion-button::before {
+    align-self: flex-start;
+    flex-shrink: 0;
+    width: 1.125rem;
+    height: 0.75rem;
+    margin-top: 0.5rem;
+    margin-right: 0.75rem;
+    margin-left: auto;
+    content: "";
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 436.686 265.011'%3e%3cdefs%3e%3cstyle%3e.cls-1%7bfill:%23272556;%7d%3c/style%3e%3c/defs%3e%3ctitle%3echevron-down-solid-1%3c/title%3e%3cpath class='cls-1' d='M201.373,257.982L7.03,63.638a24,24,0,0,1,0-33.941L29.7,7.03a24,24,0,0,1,33.9-.04L218.344,161.011,373.089,6.99a24,24,0,0,1,33.9.04L429.657,29.7a24,24,0,0,1,0,33.941L235.315,257.982a24,24,0,0,1-33.942,0h0Z'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-size: 1.125rem;
+    transition: transform 0.2s ease-in-out;
+}
+
+.accordion-1 .accordion-body {
+    padding-top: 0;
+    padding-left: 1.875rem;
+    padding-bottom: 1.125rem;
+}
+
+
 /******************/
 
 
