@@ -491,10 +491,11 @@ a:hover {
 /******************/
 
 .header {
-    padding-top: 6rem;
-    padding-bottom: 6rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
     background-color: #fff2dc;
     text-align: center;
+    height: 720px;
 }
 
 .header .h1-large {
@@ -520,6 +521,11 @@ a:hover {
 
 .header .text-container {
     margin-bottom: 5rem;
+}
+
+.header .image-container img {
+    height: 600px;
+    width: 600px;
 }
 
 

@@ -26,7 +26,7 @@
     <!-- to have large image post format in Twitter -->
 
     <!-- Webpage Title -->
-    <title>Log In - Ioniq</title>
+    <title>Details - Ioniq</title>
 
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
@@ -64,8 +64,10 @@
                         <a class="nav-link" href="index.html#invitation">Locate</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="detail.html">Details</a>
+                        <a class="nav-link" href="details">Details</a>
                     </li>
+
+
                 </ul>
                 <span class="nav-item">
                         <a class="btn-outline-sm" href="log-in.html">Register/Log In</a>
@@ -79,51 +81,26 @@
     <!-- end of navigation -->
 
 
-    <!-- Header -->
-    <header class="ex-header">
+
+
+    <!-- Details 1 -->
+    <div id="details" class="basic-1 bg-gray">
         <div class="container">
             <div class="row">
-                <div class="col-xl-10 offset-xl-1">
-                    <h1 class="text-center">Log In</h1>
+                <div class="col-lg-6 col-xl-5">
+                    <div class="text-container">
+                        <h2>Manage your time by locating the parking slots nearby you</h2>
+                        <p>Vestibulum ullamcorper augue ex, imperdiet tincidunt tellus bibendum inconsectetur rutrum mauris orbi scelerisque cursus augue, ac suscipit sem mattis at ut suscipit</p>
+                        <a class="btn-solid-reg" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Modal</a>
+                    </div>
+                    <!-- end of text-container -->
                 </div>
                 <!-- end of col -->
-            </div>
-            <!-- end of row -->
-        </div>
-        <!-- end of container -->
-    </header>
-    <!-- end of ex-header -->
-    <!-- end of header -->
-
-
-    <!-- Basic -->
-    <div class="ex-form-1 pt-5 pb-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 offset-xl-3">
-                    <div class="text-box mt-5 mb-5">
-                        <p class="mb-4">You don't have a password? Then please <a class="blue" href="sign-up.html">Sign Up</a></p>
-
-                        <!-- Log In Form -->
-                        <form>
-                            <div class="mb-4 form-floating">
-                                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                                <label for="floatingInput">Email address</label>
-                            </div>
-                            <div class="mb-4 form-floating">
-                                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-                                <label for="floatingPassword">Password</label>
-                            </div>
-                            <div class="mb-4 form-check">
-                                <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                <label class="form-check-label" for="exampleCheck1">I agree with the site's stated <a href="privacy.html">Privacy Policy</a> and <a href="terms.html">Terms & Conditions</a></label>
-                            </div>
-                            <button type="submit" class="form-control-submit-button">Log in</button>
-                        </form>
-                        <!-- end of log in form -->
-
+                <div class="col-lg-6 col-xl-7">
+                    <div class="image-container">
+                        <img class="img-fluid" src="images/details-1.svg" alt="alternative">
                     </div>
-                    <!-- end of text-box -->
+                    <!-- end of image-container -->
                 </div>
                 <!-- end of col -->
             </div>
@@ -131,8 +108,106 @@
         </div>
         <!-- end of container -->
     </div>
-    <!-- end of ex-basic-1 -->
-    <!-- end of basic -->
+    <!-- end of basic-1 -->
+    <!-- end of details 1 -->
+
+
+    <!-- Details Modal -->
+    <div id="staticBackdrop" class="modal fade" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="row">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <div class="col-lg-8">
+                        <div class="image-container">
+                            <img class="img-fluid" src="images/details-modal.jpg" alt="alternative">
+                        </div>
+                        <!-- end of image-container -->
+                    </div>
+                    <!-- end of col -->
+                    <div class="col-lg-4">
+                        <h3>Goals Setting</h3>
+                        <hr>
+                        <p>In gravida at nunc sodales pretium. Vivamus semper, odio vitae mattis auctor, elit elit semper magna ac tum nico vela spider</p>
+                        <h4>User Feedback</h4>
+                        <p>Sapien vitae eros. Praesent ut erat a tellus posuere nisi more thico cursus pharetra finibus posuere nisi. Vivamus feugiat</p>
+                        <ul class="list-unstyled li-space-lg">
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">Tincidunt sem vel brita bet mala</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">Sapien condimentum sacoz sil necr</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">Fusce interdum nec ravon fro urna</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">Integer pulvinar biolot bat tortor</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-chevron-right"></i>
+                                <div class="flex-grow-1">Id ultricies fringilla fangor raq trinit</div>
+                            </li>
+                        </ul>
+                        <a id="modalCtaBtn" class="btn-solid-reg" href="#your-link">Details</a>
+                        <button type="button" class="btn-outline-reg" data-bs-dismiss="modal">Close</button>
+                    </div>
+                    <!-- end of col -->
+                </div>
+                <!-- end of row -->
+            </div>
+            <!-- end of modal-content -->
+        </div>
+        <!-- end of modal-dialog -->
+    </div>
+    <!-- end of modal -->
+    <!-- end of details modal -->
+
+
+    <!-- Details 2 -->
+    <div class="basic-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="image-container">
+                        <img class="img-fluid" src="images/details-2.png" alt="alternative">
+                    </div>
+                    <!-- end of image-container -->
+                </div>
+                <!-- end of col -->
+                <div class="col-lg-6">
+                    <div class="text-container">
+                        <h2>Anyone can start using the app with just simple registration</h2>
+                        <p>Velit dictum non proin egestas convallis nunc, eu auctor massa. Nam hendrerit, eros ut viverra lobortis, mauris nisi porta risus, placerat dignissim tellus auctor masse</p>
+                        <ul class="list-unstyled li-space-lg">
+                            <li class="d-flex">
+                                <i class="fas fa-square"></i>
+                                <div class="flex-grow-1">Fusce ipsum augue, ultrices rutrum est accel, pulvin</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-square"></i>
+                                <div class="flex-grow-1">Fermentum elit. Vestibulum cursuso bibendum viverra</div>
+                            </li>
+                            <li class="d-flex">
+                                <i class="fas fa-square"></i>
+                                <div class="flex-grow-1">Quisque blandit pulvinar metus, eu sta malesuada</div>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- end of text-container -->
+                </div>
+                <!-- end of col -->
+            </div>
+            <!-- end of row -->
+        </div>
+        <!-- end of container -->
+    </div>
+    <!-- end of basic-2 -->
+    <!-- end of details 2 -->
 
 
     <!-- Footer -->
@@ -152,7 +227,7 @@
                             <li><a href="privacy.html">Privacy Policy</a></li>
                             <li>Menu: <a href="#header">Home</a></li>
                             <li> <a href="#features">Services</a></li>
-                            <li><a href="detail.html">Details</a></li>
+                            <li><a href="#details">Details</a></li>
                         </ul>
                     </div>
                     <!-- end of footer-col -->
