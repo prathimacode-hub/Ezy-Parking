@@ -490,6 +490,8 @@ a:hover {
 
 /******************/
 
+
+/*
 .header {
     padding-top: 5rem;
     padding-bottom: 5rem;
@@ -526,6 +528,18 @@ a:hover {
 .header .image-container img {
     height: 600px;
     width: 600px;
+}*/
+
+.carousel-inner img {
+    height: 600px;
+    width: 600px;
+}
+
+.carousel {
+    margin-top: 4.2rem;
+    background-color: #fff2dc;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 
