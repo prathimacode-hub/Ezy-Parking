@@ -140,7 +140,7 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Ezy-
 
 <h2>📝 License</h2>  
 
-This project follows the [Mozilla Public License 2.0](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/LICENSE).
+This project follows the [General Public License 3.0](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/LICENSE).
 
 
 <h2>🙂 Project Admin</h2>
