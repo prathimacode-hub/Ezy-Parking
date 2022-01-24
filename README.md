@@ -40,7 +40,7 @@ This is a most prominent trouble especially in metropolitan and tier-1 cities wh
 
 <h2>🔑Tech Stacks</h2>
 
-Skills : Machine Learning, Deep Learning, Computer Vision, Django, MySQL, IoT
+Skills : Machine Learning, Deep Learning, Computer Vision, Django, IoT
 
 Programming Languages : Python, HTML, CSS, JS
 
@@ -140,7 +140,7 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Ezy-
 
 <h2>📝 License</h2>  
 
-This project follows the [Mozilla Public License](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/LICENSE).
+This project follows the [Mozilla Public License 2.0](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/LICENSE).
 
 
 <h2>🙂 Project Admin</h2>
@@ -160,8 +160,10 @@ If you liked working on this project, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
-</td>
+<!-- <sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
+</td> -->
+
+<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br>
 
 
 <h2>📬 Contact</h2>
