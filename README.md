@@ -42,11 +42,7 @@ This is a most prominent trouble especially in metropolitan and tier-1 cities wh
 
 Skills : Machine Learning, Deep Learning, Computer Vision, Django, IoT
 
-Programming Languages : Python, HTML, CSS, JS
-
-
-Contributors are expected to join this Discord Channel here for the project discussion : 
-
+Programming Languages : Python, HTML, CSS, JavaScript
 
 When raising an issue, do make sure to mention the kind of feature, feature title, short description of the feature and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
@@ -68,7 +64,6 @@ https://prathimacode-hub.github.io/Ezy-Parking/
 - [Pull Request](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/pullrequest_template.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request.
-
 
 
 <h2>⚙️ Things to Note</h2>
@@ -112,7 +107,7 @@ This project was a part of these open source programs.
 
 <h2>✨Hall Of Fame</h2>   
 
-Special thanks goes to the Mentee for a choice to make an impact
+Special thanks goes to all of the mentees who made a choice to make an impact
 
 <table>
   <tr>
@@ -120,6 +115,7 @@ Special thanks goes to the Mentee for a choice to make an impact
   </tr>
 </table>
 
+<!-- 
 
 <h2>✔DWOC Project Mentors</h2>
 
@@ -132,6 +128,7 @@ Special thanks goes to the Mentee for a choice to make an impact
   </tr>
 </table>
 
+-->
 
 <h2>📜 Code Of Conduct</h2>
 
