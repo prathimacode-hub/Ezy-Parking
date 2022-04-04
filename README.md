@@ -107,13 +107,19 @@ This project was a part of these open source programs.
 
 <h2>✨Hall Of Fame</h2>   
 
-Special thanks goes to all of the mentees who made a choice to make an impact
+Special thanks goes to all of the mentees who made a choice to make an impact. Contributions of any kind are welcome!🚀 
 
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/Rutikab12"><img src="https://avatars.githubusercontent.com/u/71027989?v=4" width="100px;" alt=""/><br /><sub><b>Rutik Bhoyar</b></sub></a></td>   
-  </tr>
-</table>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<a href="https://github.com/prathimacode-hub/Ezy-Parking/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=prathimacode-hub/Ezy-Parking" />
+</a>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- 
 
