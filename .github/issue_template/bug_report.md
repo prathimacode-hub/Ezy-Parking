@@ -9,7 +9,7 @@ Assignee: ''
 
 Define You:
 
-- [ ] DWoC Participant
+- [ ] OpenCode Participant
 - [ ] Contributor
 
 
