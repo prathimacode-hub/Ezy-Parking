@@ -9,4 +9,12 @@ Delta Winter of Code is a winter long program organized by Delta Force, the codi
 This serves as a platform for young student developers (or event starters) to hone their technical skills by taking up projects of their interests. 😎
 
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Delta%20Winter%20Of%20Code/Delta%20Winter%20Of%20Code.jpg" width=150px height=150px /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Delta%20Winter%20Of%20Code/Delta-Winter-Of-Code.jpg" width=150px height=150px /></a>
+
+- CSI RAIT OpenCode
+
+CSI-RAIT is a leading technical committee. It is a committee that acts as a catalyst for aspiring technophiles by bridging the gap between academia and industry. A platform for exploring and learning.😀
+
+OpenCode RAIT is a month long Open Source program during summers conducted by CSI RAIT, with an aim to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under guidance of experienced mentors.✔
+
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/CSI%20RAIT%20OpenCode/OpenCode%20Logo.png" width=150px height=150px /></a>
