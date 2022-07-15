@@ -138,7 +138,7 @@ Special thanks goes to all of the mentees who made a choice to make an impact. C
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-##📜Code Of Conduct
+## 📜Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/CODE_OF_CONDUCT.md).
 
