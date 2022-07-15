@@ -1,4 +1,7 @@
-# Welcome to Ezy-Parking 👋
+<div align="center">
+  <h1>Welcome to Ezy-Parking 👋🚗</h1>
+  <h3>Website for Ezy-Parking Project Repo: <a href="https://prathimacode-hub.github.io/Ezy-Parking">Click Here!</a></h3>
+</div>
 
 <p align="center">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Ezy-Parking.png"></a>
@@ -13,14 +16,14 @@
 </p> 
 
 
-<h2>📌Repository</h2>
+## 📌Repository
 
 Ezy-Parking is a complete parking management system applying smart solutions for short time rental of empty spaces (Parking, Apartment, Office Spaces etc). This website is designed to helps users find safe, affordable and low cost parking to get rest easy while on a hustle.
 
 This is a most prominent trouble especially in metropolitan and tier-1 cities where vehicles are used at maximum potential in their daily lives. With no space to park their vehicles, it's evitable to have seen or prone to careless parking on roads or unauthorized places which disrupts the smooth flow of passages for society.
 
 
-<h2>✔Features</h2>
+## ✔Features
 
 - It allows users to get suggestions on parking locations (renders on map with information of price and availability using area / pincode) based on their schedules one plans to attend. While searching, it also shows with events nearby.
 - User can dynamically track empty parking spots to park their vehicles in a lot at the nearest slot available and releases slots as car surpasses the location.
@@ -33,12 +36,12 @@ This is a most prominent trouble especially in metropolitan and tier-1 cities wh
 - Users can also share the best spots via posts for the community.
  
  
- <h2>🙌Join Here</h2>
+ ## 🙌Join Here
 
 🚀 Join us to come up with a real-time parking solution to tackle and make this workflow more efficient towards effortless parking management system.  
 
 
-<h2>🔑Tech Stacks</h2>
+## 🔑Tech Stacks
 
 Skills : Machine Learning, Deep Learning, Computer Vision, Django, IoT
 
@@ -52,12 +55,7 @@ Go through the contributing guidelines [here](https://github.com/prathimacode-hu
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-<h2>⌛Link To The Website</h2>
-
-https://prathimacode-hub.github.io/Ezy-Parking/
-
-
-<h2>🛠Templates to Follow</h2>
+## 🛠Templates to Follow
 
 - [Feature request](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/issue_template/feature_request.md)
 - [Bug Report](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/issue_template/bug_report.md)
@@ -66,7 +64,7 @@ https://prathimacode-hub.github.io/Ezy-Parking/
 **Note** : One should follow these templates while creating a new issue or pull request.
 
 
-<h2>⚙️ Things to Note</h2>
+## ⚙️ hings to Note
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
@@ -77,7 +75,7 @@ https://prathimacode-hub.github.io/Ezy-Parking/
 * Do not update the **[README.md](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/README.md).**
 
 
-<h2>👨‍💻 Workflow:</h2>
+## 👨‍💻 Workflow:
 
 - Fork the repository
 
@@ -92,32 +90,32 @@ https://prathimacode-hub.github.io/Ezy-Parking/
 > print("Start contributing for Ezy-Parking")
 
 
-<h2>🙌HSOC Points Distribution</h2>
+## 🙌HackClubRAIT Summer Of Code Points Distribution</h2>
 
-Level-1 - 5 points
-Level-2 - 10 points
-Level-3 - 20 points
+| Level | Points Allotted |
+|:--------:|---------|
+| Level-1 | 5 points |
+| Level-2 | 10 points |
+| Level-3 | 20 points |
 
 
-<h2>👍OpenSource Program</h2>
-
-This project was a part of these open source programs.
-
+## ❄️Open Source Programs!
 <table>
 <tr>
- <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Delta%20Winter%20Of%20Code/Delta-Winter-Of-Code.jpg" width=100px height=80px /></a>
+ <td align="center">
+<a href="https://soc.hackclubrait.co/"><img src="" width=100px height=100px /><br /><sub><b>HackClub RAIT SoC 2022</b></sub></a>
  </td>
-</tr>
-<tr>
- <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/CSI%20RAIT%20OpenCode/OpenCode%20Logo.png" width=100px height=80px /></a>
+ <td align="center">
+<a href="https://dwoc.io/"><img src="" width=100px height=100px /><br /><sub><b>Delta Winter Of Code 2021</b></sub></a>
+ </td>
+  <td align="center">
+<a href="https://csirait.in/opencode/"><img src="" width=100px height=100px /><br /><sub><b>Open Code CSI RAIT 2022</b></sub></a>
  </td>
 </tr>
 </table>
 
 
-<h2>✨Hall Of Fame</h2>   
+## ✨Hall Of Fame   
 
 Special thanks goes to all of the mentees who made a choice to make an impact. Contributions of any kind are welcome!🚀 
 
@@ -133,41 +131,29 @@ Special thanks goes to all of the mentees who made a choice to make an impact. C
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-<!-- 
 
-<h2>✔DWOC Project Mentors</h2>
-
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/neelshah2409"><img src="https://avatars.githubusercontent.com/u/71593494?v=4" width="100px;" alt=""/><br /><sub><b>Neel Shah</b></sub></a></td>   
-  </tr>
-   <tr>
-<td align="center"><a href="https://github.com/malikakarsh"><img src="https://avatars.githubusercontent.com/u/62998362?v=4" width="100px;" alt=""/><br /><sub><b>Akarsh Malik</b></sub></a></td>   
-  </tr>
-</table>
-
--->
-
-<h2>📜 Code Of Conduct</h2>
+##📜Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/CODE_OF_CONDUCT.md).
 
 
-<h2>📝 License</h2>  
+## 📝License 
 
 This project follows the [General Public License 3.0](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/LICENSE).
 
 
-<h2>🙂 Project Admin</h2>
+## 😎Project Admin
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+  </tr>
+</table>
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 
-<h2>⭐Give this Project a Star</h2>
+## ⭐Give this Project a Star
 
 [![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
@@ -176,12 +162,12 @@ If you liked working on this project, do ⭐ and share this repository.
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
 <!-- <sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
-</td> -->
+</td> 
 
-<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br>
+<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br> -->
 
 
-<h2>📬 Contact</h2>
+## 📬 Contact
 
 If you want to contact me, you can reach me through below handles.
 
@@ -191,5 +177,3 @@ If you want to contact me, you can reach me through below handles.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) 
-
-
