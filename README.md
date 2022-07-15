@@ -64,7 +64,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 **Note** : One should follow these templates while creating a new issue or pull request.
 
 
-## ⚙️ hings to Note
+## ⚙️ Things to Note
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
@@ -99,7 +99,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 | Level-3 | 20 points |
 
 
-## ❄️Open Source Programs!
+## ❄️Open Source Programs
 <table>
 <tr>
  <td align="center">
@@ -113,6 +113,12 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
  </td>
 </tr>
 </table>
+
+
+<!-- 
+Achievements
+Content
+Leaderboard -->
 
 
 ## ✨Hall Of Fame   
