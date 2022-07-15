@@ -92,6 +92,13 @@ https://prathimacode-hub.github.io/Ezy-Parking/
 > print("Start contributing for Ezy-Parking")
 
 
+<h2>🙌HSOC Points Distribution</h2>
+
+Level-1 - 5 points
+Level-2 - 10 points
+Level-3 - 20 points
+
+
 <h2>👍OpenSource Program</h2>
 
 This project was a part of these open source programs.
