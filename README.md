@@ -94,9 +94,9 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 | Level Of Issues | Points Allocated |
 | - | - |
-| Level-1 | 5 points |
-| Level-2 | 10 points |
-| Level-3 | 20 points |
+| Level-1 | 5 points 🔰 |
+| Level-2 | 10 points 🌕 |
+| Level-3 | 20 points 🔥 |
 
 
 ## ❄️ Open Source Programs
@@ -118,11 +118,6 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 ## 🏆 Achievements of this Project Repo 🎉
 
 **:one: Recognized as the "🥇 BEST ORGANIZATION" for "FIESTA OF PROJECTS" undertaking the project ['Ezy-Parking'](https://github.com/prathimacode-hub/Ezy-Parking) at Delta Winter Of Code for the year 2021-22.**</br>
-
-<!-- 
-Achievements
-Content
-Leaderboard -->
 
 
 ## ✨ Hall Of Fame   
