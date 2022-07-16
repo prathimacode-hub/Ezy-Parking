@@ -16,14 +16,14 @@
 </p> 
 
 
-## 📌Repository
+## 📌 Repository
 
 Ezy-Parking is a complete parking management system applying smart solutions for short time rental of empty spaces (Parking, Apartment, Office Spaces etc). This website is designed to helps users find safe, affordable and low cost parking to get rest easy while on a hustle.
 
 This is a most prominent trouble especially in metropolitan and tier-1 cities where vehicles are used at maximum potential in their daily lives. With no space to park their vehicles, it's evitable to have seen or prone to careless parking on roads or unauthorized places which disrupts the smooth flow of passages for society.
 
 
-## ✔Features
+## ✔ Features
 
 - It allows users to get suggestions on parking locations (renders on map with information of price and availability using area / pincode) based on their schedules one plans to attend. While searching, it also shows with events nearby.
 - User can dynamically track empty parking spots to park their vehicles in a lot at the nearest slot available and releases slots as car surpasses the location.
@@ -36,12 +36,12 @@ This is a most prominent trouble especially in metropolitan and tier-1 cities wh
 - Users can also share the best spots via posts for the community.
  
  
- ## 🙌Join Here
+ ## 🙌 Join Here
 
 🚀 Join us to come up with a real-time parking solution to tackle and make this workflow more efficient towards effortless parking management system.  
 
 
-## 🔑Tech Stacks
+## 🔑 Tech Stacks
 
 Skills : Machine Learning, Deep Learning, Computer Vision, Django, IoT
 
@@ -55,7 +55,7 @@ Go through the contributing guidelines [here](https://github.com/prathimacode-hu
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-## 🛠Templates to Follow
+## 🛠 Templates to Follow
 
 - [Feature request](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/issue_template/feature_request.md)
 - [Bug Report](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/issue_template/bug_report.md)
@@ -90,7 +90,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 > print("Start contributing for Ezy-Parking")
 
 
-## 🙌HackClubRAIT Summer Of Code Points Category</h2>
+## 🙌 HackClubRAIT Summer Of Code Points Category</h2>
 
 | Level Of Issues | Points Allocated |
 | - | - |
@@ -99,7 +99,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 | Level-3 | 20 points |
 
 
-## ❄️Open Source Programs
+## ❄️ Open Source Programs
 <table>
 <tr>
  <td align="center">
@@ -115,13 +115,17 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 </table>
 
 
+## 🏆 Achievements of this Project Repo 🎉
+
+**:one: Recognized as the "🥇 BEST ORGANIZATION" for "FIESTA OF PROJECTS" undertaking the project ['Ezy-Parking'](https://github.com/prathimacode-hub/Ezy-Parking) at Delta Winter Of Code for the year 2021-22.**</br>
+
 <!-- 
 Achievements
 Content
 Leaderboard -->
 
 
-## ✨Hall Of Fame   
+## ✨ Hall Of Fame   
 
 Special thanks goes to all of the mentees who made a choice to make an impact. Contributions of any kind are welcome!🚀 
 
@@ -138,17 +142,17 @@ Special thanks goes to all of the mentees who made a choice to make an impact. C
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-## 📜Code Of Conduct
+## 📜 Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/CODE_OF_CONDUCT.md).
 
 
-## 📝License 
+## 📝 License 
 
 This project follows the [General Public License 3.0](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/LICENSE).
 
 
-## 😎Project Admin
+## 😎 Project Admin
 
 <table>
   <tr>
@@ -159,7 +163,7 @@ This project follows the [General Public License 3.0](https://github.com/prathim
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 
-## ⭐Give this Project a Star
+## ⭐ Give this Project a Star
 
 [![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
