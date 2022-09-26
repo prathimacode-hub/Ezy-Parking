@@ -89,7 +89,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 > print("Start contributing for Ezy-Parking")
 
-
+<!--
 ## 🙌 HackClubRAIT Summer Of Code Points Category</h2>
 
 | Level Of Issues | Points Allocated |
@@ -97,7 +97,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 | Level-1 | 5 points 🔰 |
 | Level-2 | 10 points 🌕 |
 | Level-3 | 20 points 🔥 |
-
+-->
 
 ## ❄️ Open Source Programs
 <table>
