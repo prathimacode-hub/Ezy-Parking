@@ -102,6 +102,9 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 ## ❄️ Open Source Programs
 <table>
 <tr>
+<td align="center">
+<a href="https://hacktoberfest.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202022/Hacktoberfest%20Logo%202022.png" width=140px height=100px /><br /><sub><b>Hacktoberfest 2022</b></sub></a>
+ </td>
  <td align="center">
 <a href="https://soc.hackclubrait.co/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/HackClub%20RAIT%20Summer%20Of%20Code%202022/HackClub%20RAIT%20Summer%20Of%20Code.png" width=100px height=100px /><br /><sub><b>HackClub RAIT SoC 2022</b></sub></a>
  </td>
