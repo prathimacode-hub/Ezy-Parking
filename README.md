@@ -54,6 +54,13 @@ Go through the contributing guidelines [here](https://github.com/prathimacode-hu
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+## Deployment with Docker
+ ```
+ docker build -t Ezy-Parking:v1
+ ```
+ ```
+ docker run -d -p 80:80 Ezy-Parking:v1
+ ```
 
 ## 🛠 Templates to Follow
 
