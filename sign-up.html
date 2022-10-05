@@ -106,23 +106,31 @@
                         <p class="mb-4">Fill out the form below to sign up for the service. Already signed up? Then just <a class="blue" href="log-in.html">Log In</a></p>
 
                         <!-- Sign Up Form -->
-                        <form>
+                        <form id="signupForm">
                             <div class="mb-4 form-floating">
                                 <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
                                 <label for="floatingInput">Email address</label>
+                                <p class="text-danger" id="floatingInput_error"></p>
+
                             </div>
                             <div class="mb-4 form-floating">
                                 <input type="text" class="form-control" id="floatingInput2" placeholder="Your name">
                                 <label for="floatingInput">Your name</label>
+                                <p class="text-danger" id="floatingInput2_error"></p>
+
                             </div>
                             <div class="mb-4 form-floating">
                                 <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
                                 <label for="floatingPassword">Password</label>
+                                <p class="text-danger" id="floatingPassword_error"></p>
+
                             </div>
                             <div class="mb-4 form-check">
                                 <input type="checkbox" class="form-check-input" id="exampleCheck1">
                                 <label class="form-check-label" for="exampleCheck1">I agree with the site's stated <a href="privacy.html">Privacy Policy</a> and <a href="terms.html">Terms & Conditions</a></label>
                             </div>
+                            <p class="text-danger" id="exampleCheck1_error"></p>
+
                             <button type="submit" class="form-control-submit-button">Sign up</button>
                         </form>
                         <!-- end of sign up form -->
@@ -234,6 +242,8 @@
     <!-- ReplaceMe for rotating text -->
     <script src="js/scripts.js"></script>
     <!-- Custom scripts -->
+    <script src="js/validate.js"></script>
+    <!-- validate form script -->
 </body>
 
 </html>
