@@ -532,7 +532,7 @@ a:hover {
 
 .carousel-inner img {
     height: 600px;
-    width: 600px;
+    width: 80%;
 }
 
 .carousel {
@@ -540,6 +540,19 @@ a:hover {
     background-color: #fff2dc;
     margin-left: 1rem;
     margin-right: 1rem;
+}
+
+.carousel-caption h5{
+    color: white;
+    font-size: 180%;
+}
+
+.carousel-caption p{
+    background: rgba(0, 0, 0, 0.3);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:#d3d2e4;
+    font-size: 125%;
 }
 
 
