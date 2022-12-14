@@ -1,19 +1,35 @@
 name: Feature Request
 description: Request/Suggest any feature you think is missing
-title: "Title: "
+title: "Project Title: "
 labels: "Feature Request"
 body:
+
+Define You:
+
+- [ ] Code Peak Participant 
+- [ ] Contributor
+
+Your Full Name : 
+
+ - type: textarea #description
+    attributes:
+      label: What are the Tech Stacks you will use and which category it belongs to
+      description: Specific Information will give you the direction to submit your PR's
+      placeholder: Ex. HTML, CSS, JS and Chrome Extensions [...]
+    validations:
+      required: true
+      
   - type: textarea #description
     attributes:
       label: Is your feature request related to a problem? Please describe.
       description: A clear and concise description of what the problem is.
-      placeholder: Ex. I'm always frustrated when [...]
+      placeholder: Ex. I am always frustrated when [...]
     validations:
       required: true
 
   - type: textarea #solution
     attributes:
-      label: Describe the solution you'd like.
+      label: Describe the solution you would like.
       description: A clear and concise description of what you want to happen.
       placeholder: Kindly elaborate.
     validations:
@@ -21,7 +37,7 @@ body:
 
   - type: textarea #alternatives
     attributes:
-      label: Describe alternatives you've considered.
+      label: Describe alternatives you have considered.
       description: A clear and concise description of any alternative solutions or features you've considered.
       placeholder: Type here.
     validations:
@@ -30,4 +46,4 @@ body:
   - type: textarea #Additional Context
     attributes:
       label: Add any other context or screenshots about the feature request here.
-      description: Any miscellaneous suggestions you'd like to give.
+      description: Any miscellaneous suggestions you would like to give.
