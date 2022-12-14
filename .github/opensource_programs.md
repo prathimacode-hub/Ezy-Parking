@@ -6,7 +6,7 @@ List of Open Source Events in which this project participated.
 
 Kharagpur Winter of Code is a 5-week long online program for students who are new to open source software development. The program not only helps students to get involved in open source, but also prepares them for many open source summer programs; Google Summer of Code being one of them.
 
-<a href="https://github.com/prathimacode-hub"><img src="[https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202022/](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Kharagpur%20Winter%20Of%20Code%202022/Kharagpur%20Winter%20Of%20Code.png)" width=150px height=150px /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Kharagpur%20Winter%20Of%20Code%202022/Kharagpur%20Winter%20Of%20Code.png" width=150px height=150px /></a>
 
 
 - Hacktoberfest 2022
