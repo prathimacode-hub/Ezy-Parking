@@ -1,21 +1,13 @@
 name: Feature Request
 description: Request/Suggest any feature you think is missing
-title: "Project Title: "
+title: "Title: "
 labels: "Feature Request"
 body:
-
-Define You:
-
-- [ ] Code Peak Participant 
-- [ ] Contributor
-
-Your Full Name : 
-
- - type: textarea #description
+  - type: textarea #description
     attributes:
-      label: What are the Tech Stacks you will use and which category it belongs to
-      description: Specific Information will give you the direction to submit your PR's
-      placeholder: Ex. HTML, CSS, JS and Chrome Extensions [...]
+      label: Are you a CodePeak participant?
+      description: Give your answer along with your Full Name.
+      placeholder: Ex. Fill the info here
     validations:
       required: true
       
@@ -23,13 +15,13 @@ Your Full Name :
     attributes:
       label: Is your feature request related to a problem? Please describe.
       description: A clear and concise description of what the problem is.
-      placeholder: Ex. I am always frustrated when [...]
+      placeholder: Ex. I'm always frustrated when [...]
     validations:
       required: true
 
   - type: textarea #solution
     attributes:
-      label: Describe the solution you would like.
+      label: Describe the solution you'd like.
       description: A clear and concise description of what you want to happen.
       placeholder: Kindly elaborate.
     validations:
@@ -37,7 +29,7 @@ Your Full Name :
 
   - type: textarea #alternatives
     attributes:
-      label: Describe alternatives you have considered.
+      label: Describe alternatives you've considered.
       description: A clear and concise description of any alternative solutions or features you've considered.
       placeholder: Type here.
     validations:
@@ -46,4 +38,4 @@ Your Full Name :
   - type: textarea #Additional Context
     attributes:
       label: Add any other context or screenshots about the feature request here.
-      description: Any miscellaneous suggestions you would like to give.
+      description: Any miscellaneous suggestions you'd like to give.
