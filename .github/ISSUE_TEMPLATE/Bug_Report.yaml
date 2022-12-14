@@ -1,6 +1,6 @@
-name: "Bug Report"
+name: Bug Report
 description: Report a bug you found
-title: "[Bug Project Title here] "
+title: "[Bug Title here] "
 labels: "bug"
 body:
   - type: markdown
@@ -8,13 +8,13 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
         
-Define You:
-
-- [ ] Code Peak Participant 
-- [ ] Contributor
-
-Your Full Name : 
-Category/Repo It Belongs To : 
+  - type: textarea #description
+    attributes:
+      label: Are you a CodePeak participant?
+      description: Give your answer along with your Full Name.
+      placeholder: Ex. Fill the info here
+    validations:
+      required: true
 
   - type: textarea #description
     attributes:
