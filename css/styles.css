@@ -61,7 +61,7 @@ h1 {
 }
 
 h2 {
-    color: #272556;
+    color: #564f25;
     font-weight: 600;
     font-size: 2rem;
     line-height: 2.625rem;
@@ -595,7 +595,17 @@ a:hover {
 
 
 /********************/
-
+.cards-1 .card:hover {
+    transition: all 0.3s ease-out;
+    box-shadow: 7px 7px 5px 9px rgba(19, 167, 197, 0.2);
+    top: -4px;
+    border: 1px solid #f3f3f3;
+    background-color: rgb(236, 242, 242);
+  }
+.cards-1 .card {
+    background-color: coral;
+    box-shadow: 3px 4px 8px rgb(237, 241, 218);
+}
 .cards-1 {
     padding-top: 5rem;
     padding-bottom: 1.25em;
@@ -608,13 +618,14 @@ a:hover {
 
 .cards-1 .h2-heading span {
     color: #f25c05;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .cards-1 .card {
     margin-bottom: 5rem;
-    border: none;
     background-color: transparent;
+    border-radius: 20px;
+    padding-top: 8px;
 }
 
 .cards-1 .card-icon {
@@ -625,6 +636,8 @@ a:hover {
     margin-left: auto;
     border-radius: 10px;
     background-color: #efebfd;
+    
+    
 }
 
 .cards-1 .card-icon .fas,
