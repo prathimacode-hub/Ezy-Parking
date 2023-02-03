@@ -59,7 +59,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 - [Feature request](https://github.com/prathimacode-hub/MedFlare/blob/main/.github/ISSUE_TEMPLATE/Feature_Request.yaml)
 - [Bug Report](https://github.com/prathimacode-hub/MedFlare/blob/main/.github/ISSUE_TEMPLATE/Bug_Report.yaml)
-- [Pull Request](https://github.com/prathimacode-hub/MedFlare/blob/main/.github/pullrequest_template.md)
+- [Pull Request](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request.
 
