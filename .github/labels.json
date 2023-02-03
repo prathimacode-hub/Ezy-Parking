@@ -1,0 +1,37 @@
+[
+  {
+    "name": "good first issue",
+    "description": "This issue is good for first timers",
+    "color": "7057ff"
+  },
+  {
+    "name": "help wanted",
+    "description": "This issue needs help ! Please help if possible !",
+    "color": "008672"
+  },
+  {
+    "name": "hard",
+    "description": "Points will be: 50. 4 days will be allotted.",
+    "color": "f90716"
+  },
+  {
+    "name": "medium",
+    "description": "Points will be: 30. 2-3 days will be allotted.",
+    "color": "ffe400"
+  },
+  {
+    "name": "easy",
+    "description": "Points will be: 10. 1 day will be allotted.",
+    "color": "28ffbf"
+  },
+  {
+    "name": "iwoc",
+    "description": "This issue/pull request will be considered for IWOC 2k23.",
+    "color": "1d4cb0"
+  },
+  {
+    "name": "🤩 Up for Grab",
+    "description": "This issue is not assigned ! Grab It !",
+    "color": "bf00ff"
+  }
+]
