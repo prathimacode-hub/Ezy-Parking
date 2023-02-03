@@ -8,7 +8,7 @@ I'm happy to welcome all the contributions from anyone willing to add new script
 
 ## 💻Before Contributing
 
-Welcome to [prathimacode-hub/EcoFlex](https://github.com/prathimacode-hub/Ezy-Parking/). Before sending your pull requests, make sure that you **read the whole
+Welcome to [prathimacode-hub/Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking/). Before sending your pull requests, make sure that you **read the whole
 guidelines**. If you have any doubt on the contributing guide, please feel free to reach out.
 
 
@@ -58,7 +58,7 @@ Following are the steps to guide you:
 1. Welcome to this repository, if you are here as open source program participant/contributor.
 2. Participants / contributors have to **comment** on issues they would like to work on, and mentors or the PA will assign you.
 3. Issues will be assigned on a **first-come, first-serve basis.**
-4. Participants / Contributors can also **open their issues** using [issue_template](https://github.com/prathimacode-hub/Ezy-Parking/tree/main/.github/issue_template),
+4. Participants / Contributors can also **open their issues** using [issue_template](https://github.com/prathimacode-hub/Ezy-Parking/tree/main/.github/ISSUE_TEMPLATE),
 but it needs to be verified and labelled by a mentor or PA. Please discuss with the team once before opening your issues. We respect all your contributions, whether 
 it is an Issue or a Pull Request.
 6. When you raise a issue, make sure you get it assigned to you, before you start working on that project.
@@ -81,12 +81,12 @@ another person in the queue.
 
 ### 🧲Pull Requests Review Criteria
 
-1. Please fill the **[PR Template](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/pullrequest_template.md)** properly while making a Pull Request.
+1. Please fill the **[PR Template](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/PULL_REQUEST_TEMPLATE.md)** properly while making a Pull Request.
 2. You must add your script into the respective **places**.
 3. Your work must be original, written by you not copied from other resources.
 5. Follow the proper [style guides](https://google.github.io/styleguide/) for your work.
 6. For any queries or discussions, please feel free to join and drop a message over Discord channel.
-7. Do not update the [README.md](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/README.md) and [CONTRIBUTING.md](https://github.com/prathimacode-hub/EcoFlex/blob/main/CONTRIBUTING.md).
+7. Do not update the [README.md](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/README.md) and [CONTRIBUTING.md](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/CONTRIBUTING.md).
 
 
 ## 📖Resources
