@@ -5,7 +5,7 @@ labels: "Feature Request"
 body:
   - type: textarea #description
     attributes:
-      label: Are you a KWOC participant?
+      label: Are you a IWOC participant?
       description: Give your answer along with your Full Name.
       placeholder: Ex. Fill the info here
     validations:
