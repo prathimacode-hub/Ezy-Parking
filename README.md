@@ -57,9 +57,9 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 ## 🛠 Templates to Follow
 
-- [Feature request](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/issue_template/feature_request.md)
-- [Bug Report](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/issue_template/bug_report.md)
-- [Pull Request](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/.github/pullrequest_template.md)
+- [Feature request](https://github.com/prathimacode-hub/MedFlare/blob/main/.github/ISSUE_TEMPLATE/Feature_Request.yaml)
+- [Bug Report](https://github.com/prathimacode-hub/MedFlare/blob/main/.github/ISSUE_TEMPLATE/Bug_Report.yaml)
+- [Pull Request](https://github.com/prathimacode-hub/MedFlare/blob/main/.github/pullrequest_template.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request.
 
@@ -102,6 +102,9 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 ## ❄️ Open Source Programs
 <table>
 <tr>
+<td align="center">
+<a href="https://www.iwoc.live/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Innogeeks%20Winter%20Of%20Code%202023/IWOC%20Logo.png" width=140px height=100px /><br /><sub><b>Innogeeks Winter Of Code 2023</b></sub></a>
+ </td>
 <td align="center">
 <a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Kharagpur%20Winter%20Of%20Code%202022/Kharagpur%20Winter%20Of%20Code.png" width=140px height=100px /><br /><sub><b>Kharagpur Winter Of Code 2022</b></sub></a>
  </td>
