@@ -126,7 +126,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 ## 🏆 Achievements of this Project Repo 🎉
 
-**:one: Recognized as the "🥇 BEST ORGANIZATION" for "FIESTA OF PROJECTS" undertaking the project ['Ezy-Parking'](https://github.com/prathimacode-hub/Ezy-Parking) at Delta Winter Of Code for the year 2021-22.**</br>
+**:one: Recognized as the "🥇 BEST ORGANIZATION" for "FIESTA OF PROJECTS" undertaking the project ['Ezy-Parking'](https://github.com/prathimacode-hub/Ezy-Parking) at Delta Winter Of Code.**</br>
 
 
 ## ✨ Hall Of Fame   
